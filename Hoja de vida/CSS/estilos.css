@@ -1,0 +1,93 @@
+body
+{
+    background-color: #D1FDCB;
+}
+
+.foto
+{
+    width: 150px;
+    margin-left: 50%;
+}
+
+main
+{
+    justify-content: center;
+    
+}
+
+h2
+{
+    font-weight: bold;
+}
+
+.datosg
+{
+    padding: 25px;
+    border: 2px solid;
+    border-color: #FDD0CB;
+    border-radius: 30px;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.educacion
+{
+    padding: 25px;
+    /* padding-left: 26%; */
+    border: 2px solid;
+    border-color: #FDD0CB;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+.expl
+{
+    padding: 25px;
+    /* padding-left: 26%; */
+    border: 2px solid;
+    border-color: #FDD0CB;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+.cursos
+{
+    padding: 25px;
+    /* padding-left: 26%; */
+    border: 2px solid;
+    border-color: #FDD0CB;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    
+}
+
+.habilidades
+{
+    padding: 25px;
+    /* padding-left: 26%; */
+    border: 2px solid;
+    border-color: #FDD0CB;
+    border-radius: 30px;
+    margin-bottom: 10px;
+
+}
+
+section
+{
+    background-color: #FDFBCB;
+    width: 80%;
+    
+}
+
+main
+{
+    position: absolute;
+    /* top: 50%; */
+    left: 30%;
+}
+
+.titulo
+{
+    padding-left: 32%;
+    margin-bottom: 10px;
+}
